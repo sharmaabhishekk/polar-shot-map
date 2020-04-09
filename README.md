@@ -5,7 +5,7 @@ Peter McKeever's Polar Shot Maps using Matplotlib
 
 ### Generated Image
 
-![Our image](Lionel Messi.png "Messi")
+![Our image](Lionel Messi_shots.png "Messi")
 
 ## Get Started
 
