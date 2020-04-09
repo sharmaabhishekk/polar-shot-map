@@ -3,6 +3,10 @@ Peter McKeever's Polar Shot Maps using Matplotlib
 
 ![Shot Map](https://pbs.twimg.com/media/EU7gGmKXgAAgCHs?format=jpg&name=4096x4096)
 
+### Generated Image
+
+![Shot Map](https://pbs.twimg.com/media/EVJx6RxUEAEuWub?format=jpg&name=4096x4096)
+
 ## Get Started
 
 Simply run `main.py` and it will save a image in `.images\`
