@@ -5,7 +5,7 @@ from helper import ax_points, custom_axes, plot_inset, imscatter
 from matplotlib.projections import get_projection_class
 from collections import Counter
 
-plt.style.use("custom_style") ##mplstylesheet for background color, and font family
+plt.style.use("custom_style.mplstyle") ##mplstylesheet for background color, and font family
 fig, ax, ax1, aux_ax1 = custom_axes()
 
 """
